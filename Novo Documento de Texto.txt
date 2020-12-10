@@ -1,6 +1,7 @@
 Infelizmente só consegui até aqui, tentei pesquisar na algo na internet para usar como base, mas mesmo assim fiquei confuso e sem saber por onde começar e o que fazer. 
 
-							
+Eu iria refazer após a demonstração do professor, mas não acho justo. Até porque ainda estou confuso e se eu fosse "refazer" apenas iria copiar o código do professor.
+Então pretendo entrega-lo dessa forma, assim é justo para aqueles que realmente conseguiram  fazer.							
 			
 
 
